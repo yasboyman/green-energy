@@ -97,7 +97,7 @@ $sign-in-color: #4d494c;
       text-align: left;
       font-family: $font;
       font-size: 16px;
-      border: none;
+      border: $primary-color 1px solid;
       border-radius: 2px;
       box-shadow: 0 0 1px 1px $primary-color;
       padding: 6px;
