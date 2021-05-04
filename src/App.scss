@@ -114,6 +114,7 @@ $sign-in-color: #4d494c;
     .checkbox-container {
       @include flexCenter(row);
       cursor: pointer;
+      align-items: center;
 
       .checkbox {
         margin: 8px 4px 0 0;
