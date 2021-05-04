@@ -29,13 +29,13 @@ $sign-in-color: #4d494c;
     box-shadow: 0 0 3px 1px $primary-color;
     border-radius: 2px;
     height: 385px;
-    width: 350px;;
+    width: 385px;;
     justify-content: space-around;
     align-items: flex-start;
     background-color: #ffffff;
     margin: 20px;
     @media screen and (max-width: 411px) {
-      width: 60%;
+      width: 70%;
     }
   }
 
